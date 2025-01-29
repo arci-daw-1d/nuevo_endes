@@ -1,1 +1,1 @@
-Prueba ahora está modificado - conflicto local
+Prueba ahora está modificado -- conflicto remoto
